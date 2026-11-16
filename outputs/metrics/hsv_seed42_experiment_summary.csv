@@ -1,0 +1,2 @@
+color_space,seed,epochs_completed,best_epoch,training_time_seconds,parameter_count,accuracy,macro_precision,macro_recall,macro_f1,test_loss,test_accuracy
+hsv,42,30,30,190.9025183020001,110147,0.7,0.6956043956043955,0.7000000000000001,0.6887468030690537,0.6458396315574646,0.699999988079071

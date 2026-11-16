@@ -1,0 +1,2 @@
+color_space,seed,epochs_completed,best_epoch,training_time_seconds,parameter_count,accuracy,macro_precision,macro_recall,macro_f1,test_loss,test_accuracy
+grayscale,42,30,27,124.97432471899992,110147,0.9666666666666667,0.9696969696969697,0.9666666666666667,0.9665831244778612,0.36190786957740784,0.9666666388511658

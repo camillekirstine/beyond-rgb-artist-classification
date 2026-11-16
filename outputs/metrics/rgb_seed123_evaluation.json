@@ -1,0 +1,10 @@
+{
+    "color_space": "rgb",
+    "seed": 123,
+    "accuracy": 0.8,
+    "macro_precision": 0.8090909090909091,
+    "macro_recall": 0.8000000000000002,
+    "macro_f1": 0.8030910609857976,
+    "test_loss": 0.48747459053993225,
+    "test_accuracy": 0.800000011920929
+}

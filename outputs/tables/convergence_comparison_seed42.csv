@@ -1,0 +1,4 @@
+color_space,epochs_completed,best_validation_loss_epoch,best_validation_accuracy_epoch,best_validation_loss,best_validation_accuracy
+rgb,30,30,23,0.3594755530357361,0.8644067645072937
+hsv,30,30,26,0.6233878135681152,0.694915235042572
+grayscale,30,27,30,0.4305701851844787,0.8474576473236084

@@ -1,0 +1,10 @@
+split,class,image_count
+train,monet,70
+train,picasso,70
+train,vangogh,70
+validation,monet,20
+validation,picasso,19
+validation,vangogh,20
+test,monet,10
+test,picasso,10
+test,vangogh,10

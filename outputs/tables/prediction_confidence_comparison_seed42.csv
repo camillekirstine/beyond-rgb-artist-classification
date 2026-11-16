@@ -1,0 +1,4 @@
+color_space,mean_confidence,correct_confidence,incorrect_confidence,accuracy
+rgb,0.8132841,0.85642815,0.64070827,0.8
+hsv,0.71173245,0.76233876,0.59365124,0.7
+grayscale,0.72568566,0.73188055,0.5460335,0.9666666666666667

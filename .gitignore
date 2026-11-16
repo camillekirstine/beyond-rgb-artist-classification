@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Model outputs and logs
+outputs/models/
+outputs/logs/
+
+# Temporary files
+.DS_Store
+*.tmp
